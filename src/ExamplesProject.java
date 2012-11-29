@@ -1,10 +1,3 @@
-// Assignment 10 Problem 1
-// Alex Suarez
-// swazi
-// Hsiu te Lin
-// tedlin
-// 18 April 2012
-
 import tester.Tester;
 import tunes.*;
 import impsoundworld.*;
